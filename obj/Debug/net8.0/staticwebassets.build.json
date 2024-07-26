@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5reRz03Fue0yDZQb+ge9cssssfpgNDOEDmY0tgXAJGU=",
+  "Source": "SalesAutomationAPI",
+  "BasePath": "_content/SalesAutomationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
